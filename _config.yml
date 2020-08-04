@@ -6,61 +6,61 @@ name: Salar Bahador
 markdown: kramdown
 
 primarylinks:
- - title: GitHub
-   url: https://github.com/SaliBhdr
- - title: StackOverflow
-   url: https://stackoverflow.com/users/8031400/salar-bahador?tab=profile
- - title: LinkedIn
-   url: https://www.linkedin.com/in/salar-bahador
+  - title: GitHub
+    url: https://github.com/SaliBhdr
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/8031400/salar-bahador?tab=profile
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/salar-bahador
 
 skills:
- - PHP
- - Laravel
- - Yii
- - Mysql
- - Mongodb
- - Python
- - Javascript
- - Jquery
- - API Design
- - REST
- - Git
- - Dart
- - Flutter
- - VueJs
- - SQL
+  - PHP
+  - Laravel
+  - Yii
+  - Mysql
+  - Mongodb
+  - Python
+  - Javascript
+  - Jquery
+  - API Design
+  - REST
+  - Git
+  - Dart
+  - Flutter
+  - VueJs
+  - SQL
 
 roles:
- - title: Senior Backend Developer
-   start: 2018
-   end: Ongoing
-   employer: TGBS Co.
-   description: Developing Rest API for Winigames mobile application - Mobile game application ( Available on google play, cafe bazaar, Iran Apps), Developing Digital marketing and ads web-based software - VAS, Building 100% percent of An audiobook app named Kholase ( Available on google play, cafe bazaar, Iran Apps), Developing and maintaining Value-added service application
- - title: Senior Backend Developer
-   start: 2018
-   end: 2018
-   employer: Sarir Rayaneh Gostar
-   description: Building domain parking website along with API Building automation CRM, Contributing to building a search engine Building Word stemmer, Building word to excel converter Building excel to word converter
- - title: Web developer
-   start: 2016
-   end: 2018
-   employer: Ibulud
-   description: Developing Websites
- - title: Web developer
-   start: 2015
-   end: 2016
-   employer: Arsham
-   description: Developing Websites
+  - title: Senior Backend Developer
+    start: 2018
+    end: Ongoing
+    employer: TGBS Co.
+    description: Developing Rest API for Winigames mobile application - Mobile game application ( Available on google play, cafe bazaar, Iran Apps), Developing Digital marketing and ads web-based software - VAS, Building 100% percent of An audiobook app named Kholase ( Available on google play, cafe bazaar, Iran Apps), Developing and maintaining Value-added service application
+  - title: Senior Backend Developer
+    start: 2018
+    end: 2018
+    employer: Sarir Rayaneh Gostar
+    description: Building domain parking website along with API Building automation CRM, Contributing to building a search engine Building Word stemmer, Building word to excel converter Building excel to word converter
+  - title: Web developer
+    start: 2016
+    end: 2018
+    employer: Ibulud
+    description: Developing Websites
+  - title: Web developer
+    start: 2015
+    end: 2016
+    employer: Arsham
+    description: Developing Websites
 
 education:
- - level: Master
-    date: 2019
+  - level: Master
+      date: 2019
+      subject: Software engineering
+      school: University of PNU Tehran North
+  - level: Bachelor
+    date: 2010
     subject: Software engineering
-    school: University of PNU Tehran North
- - level: Bachelor
-   date: 2010
-   subject: Software engineering
-   school: University of Urmia
+    school: University of Urmia
 
 github:
   - https://github.com/SaliBhdr/typhoon-iran-cities
@@ -75,8 +75,8 @@ github:
   - https://github.com/SaliBhdr/tower-of-hanoi-php
 
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/8031400/salar-bahador
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+  profileurl: https://stackoverflow.com/users/8031400/salar-bahador
+  flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
   I'm PHP developer <br/><br/>
