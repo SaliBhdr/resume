@@ -83,25 +83,17 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/8031400/salar-bahador
+   profileurl: https://stackoverflow.com/users/258813/rhinds
+   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  About me
-  <br/>
-  - I'm PHP developer<br/>
-  - I'm a Laravel specialist<br/>
-  - I focus on creating clean and complicated websites<br/>
-  I host websites<br/>
-  I build mobile application with flutter for android and IOS<br/>
-  I build API services and microservices<br/>
-  Experience<br/>
-  <br/>
-  In August 2015, I started working at a top dental management agency called Dentonic where I worked as a full-time PHP developer for 8 months.
-  <br/>
-  But, looking to improve my skills to the next level I had to make the hard decision to leave Dentonic and look for a new opportunity. In September 2017 I joined 'ibulud', another web agency which uses Laravel as a daily tool/framework.
-  <br/>
-  And besides that, I started moving to a part-time freelancer part-time employee schedule. I quickly had more demand than time available for new projects.
-  <br/>
-  I've been working on various projects as a freelancer, on small to big teams.
-  <br/>
-  In September 2018 I started to work with sarir computer but it didn't last long and after to month in November 2018 I started to work with TGBSCo a web and mobile application agency. I in part of three main products of this company winigames, digital marketing, and kholase audiobooks.
+  I'm PHP developer <br/><br/>
+  I'm a Laravel specialist<br/><br/>
+  I focus on creating clean and complicated websites<br/><br/>
+  I host websites<br/><br/>
+  I build mobile application with flutter for android and IOS<br/><br/>
+  I build API services and microservices Experience<br/><br/>
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
