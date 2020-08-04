@@ -54,9 +54,9 @@ roles:
 
 education:
   - level: Master
-      date: 2019
-      subject: Software engineering
-      school: University of PNU Tehran North
+    date: 2019
+    subject: Software engineering
+    school: University of PNU Tehran North
   - level: Bachelor
     date: 2010
     subject: Software engineering
