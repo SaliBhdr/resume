@@ -5,8 +5,6 @@ name: Salar Bahador
 # Build settings
 markdown: kramdown
 
-#User specific content
-#Links that will appear in the navbar
 primarylinks:
  - title: GitHub
    url: https://github.com/SaliBhdr
@@ -15,7 +13,6 @@ primarylinks:
  - title: LinkedIn
    url: https://www.linkedin.com/in/salar-bahador
 
-#Any buzzword skills you want to include
 skills:
  - PHP
  - Laravel
@@ -29,12 +26,10 @@ skills:
  - REST
  - Git
  - Dart
- - Flutter (Android / ios)
- - Java
+ - Flutter
  - VueJs
  - SQL
 
-#Work experience is required
 roles:
  - title: Senior Backend Developer
    start: 2018
@@ -57,7 +52,6 @@ roles:
    employer: Arsham
    description: Developing Websites
 
-#Education is required
 education:
  - level: Master
     date: 2019
@@ -68,7 +62,6 @@ education:
    subject: Software engineering
    school: University of Urmia
 
-#List of interesting Github repo/projects to include - optional
 github:
   - https://github.com/SaliBhdr/typhoon-iran-cities
   - https://github.com/SaliBhdr/typhoon-rate
@@ -81,9 +74,8 @@ github:
   - https://github.com/SaliBhdr/typhoon-secure-file
   - https://github.com/SaliBhdr/tower-of-hanoi-php
 
-#Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
+   profileurl: https://stackoverflow.com/users/8031400/salar-bahador
    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
@@ -93,7 +85,3 @@ intro: |
   I host websites<br/><br/>
   I build mobile application with flutter for android and IOS<br/><br/>
   I build API services and microservices Experience<br/><br/>
-
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
