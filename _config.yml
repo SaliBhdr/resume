@@ -86,6 +86,8 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/8031400.png
 
 intro: |
+  <img src="asset/img/profile.jpg" alt="سالار بهادر" class="rounded-circle"
+       title="سالار بهادر">
   I'm PHP developer <br/>
   I'm a Laravel specialist<br/>
   I focus on creating clean and complicated websites<br/>
