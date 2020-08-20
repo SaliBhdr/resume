@@ -1,6 +1,6 @@
 # Site settings
-title: Salar Bahador Resume
-name: Salar Bahador
+title: رزومه سالار بهادر
+name: سالار بهادر
 
 # Build settings
 markdown: kramdown
@@ -92,6 +92,7 @@ intro: |
   I host websites<br/>
   I build mobile application with flutter for android and IOS<br/>
   I build API services and microservices Experience<br/>
+  Resume Assesment link : <a href="https://salibhdr.github.io/resumeFa/asset/resume.pdf" target="_blank">Click Me!!!</a>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
